@@ -6,8 +6,6 @@
 #### * The analysis comprised of multiple questions which helped in deriving insights about terrorism hot spots and security questions
 #### * This project was done as a part of the internship at the sparks Foundation
 <br/>
-<br/>
-
 #### Packages Used:
 * Pandas, Numpy, Matplotlib, Seaborn, Plotly
 

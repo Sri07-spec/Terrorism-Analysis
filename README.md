@@ -1,5 +1,5 @@
 # Terrorism-Analysis
-<<<<<<< HEAD
+
 An elaborate exploratory data analysis on the dataset from the Global Terrorism Dataset.
 =======
 #### * An elaborate exploratory data analysis on the dataset from the Global Terrorism Dataset.

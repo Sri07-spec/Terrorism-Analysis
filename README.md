@@ -1,11 +1,11 @@
 # Terrorism-Analysis
 
 ## An elaborate exploratory data analysis on the dataset from the Global Terrorism Database.
-=======
-### Objectives: 
-#### * An elaborate exploratory data analysis on the dataset from the Global Terrorism Dataset.
-#### * The analysis comprised of multiple questions which helped in deriving insights about terrorism hot spots and security questions
-#### * This project was done as a part of the internship at the sparks Foundation
+
+#### Objectives: 
+* An elaborate exploratory data analysis on the dataset from the Global Terrorism Dataset.
+* The analysis comprised of multiple questions which helped in deriving insights about terrorism hot spots and security questions
+* This project was done as a part of the internship at the sparks Foundation
 <br/>
 
 #### Packages Used:
